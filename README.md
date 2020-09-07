@@ -1,4 +1,4 @@
-# tiptap-practice
+# tiptap-starter-kit
 
 ## Project setup
 ```
